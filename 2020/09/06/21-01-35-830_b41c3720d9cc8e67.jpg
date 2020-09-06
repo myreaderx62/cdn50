@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     version="2.0">
+   <channel>
+      <title>Most Cited: NEJM Most Cited Articles - Recent</title>
+      <link>https://www.nejm.org/action/showMostCitedArticlesFeed?journalCode=nejm&amp;topArticlesType=recent</link>
+      <description>"Browse NEJM's most-cited clinical and medical articles to see what articles researchers are citing most often. These clinical and medical articles are listed in rank order, and the list is updated weekly.</description>
+      <language>en-us</language>
+      <managingEditor>nejmcust@mms.org</managingEditor>
+      <lastBuildDate>Sun, 06 Sep 2020 01:59:24 GMT</lastBuildDate>
+      <generator>Atypon® Literatum™</generator>
+      <docs>http://validator.w3.org/feed/docs/rss2.html</docs>
+      <ttl>10080</ttl>
+      <atom:link href="https://www.nejm.org/action/showMostCitedArticlesFeed?journalCode=nejm&amp;topArticlesType=recent"
+                 rel="self"
+                 type="application/atom+xml"/>
+      <item>
+         <title>Clinical Characteristics of Coronavirus Disease 2019 in China</title>
+         <link>https://www.nejm.org/doi/full/10.1056/NEJMoa2002032?rss=mostCited</link>
+         <guid isPermaLink="true">https://www.nejm.org/doi/full/10.1056/NEJMoa2002032?rss=mostCited</guid>
+         <dc:creator>By authorWei-jie GuanZheng-yi NiYu HuWen-hua LiangChun-quan OuJian-xing HeLei LiuHong ShanChun-liang LeiDavid S.C. HuiBin DuLan-juan LiGuang ZengKwok-Yung YuenRu-chong ChenChun-li TangTao WangPing-yan ChenJie XiangShi-yue LiJin-lin WangZi-jing LiangYi-xiang PengLi WeiYong LiuYa-hua HuPeng PengJian-ming WangJi-yang LiuZhong ChenGang LiZhi-jian ZhengShao-qin QiuJie LuoChang-jiang YeShao-yong ZhuNan-shan Zhong</dc:creator>
+         <pubDate>2020-04-30T00:00:00</pubDate>
+         <source url="https://www.nejm.org/action/showMostCitedArticlesFeed?journalCode=nejm&amp;topArticlesType=recent">Most Cited: NEJM Most Cited Articles - Recent</source>
+      </item>
+      <item>
+         <title>Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia</title>
+         <link>https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?rss=mostCited</link>
+         <guid isPermaLink="true">https://www.nejm.org/doi/full/10.1056/NEJMoa2001316?rss=mostCited</guid>
+         <dc:creator>By authorQun LiXuhua GuanPeng WuXiaoye WangLei ZhouYeqing TongRuiqi RenKathy S.M. LeungEric H.Y. LauJessica Y. WongXuesen XingNijuan XiangYang WuChao LiQi ChenDan LiTian LiuJing ZhaoMan LiuWenxiao TuChuding ChenLianmei JinRui YangQi WangSuhua ZhouRui WangHui LiuYinbo LuoYuan LiuGe ShaoHuan LiZhongfa TaoYang YangZhiqiang DengBoxi LiuZhitao MaYanping ZhangGuoqing ShiTommy T.Y. LamJoseph T. WuGeorge F. GaoBenjamin J. CowlingBo YangGabriel M. LeungZijian Feng</dc:creator>
+         <pubDate>2020-03-26T00:00:00</pubDate>
+         <source url="https://www.nejm.org/action/showMostCitedArticlesFeed?journalCode=nejm&amp;topArticlesType=recent">Most Cited: NEJM Most Cited Articles - Recent</source>
+      </item>
+      <item>
+         <title>Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1</title>
+         <link>https://www.nejm.org/doi/full/10.1056/NEJMc2004973?rss=mostCited</link>
+         <guid isPermaLink="true">https://www.nejm.org/doi/full/10.1056/NEJMc2004973?rss=mostCited</guid>
+         <dc:creator>By authorNeeltje van DoremalenTrenton BushmakerDylan H. MorrisMyndi G. HolbrookAmandine GambleBrandi N. WilliamsonAzaibi TaminJennifer L. HarcourtNatalie J. ThornburgSusan I. GerberJames O. Lloyd-SmithEmmie de WitVincent J. Munster</dc:creator>
+         <pubDate>2020-04-16T00:00:00</pubDate>
+         <source url="https://www.nejm.org/action/showMostCitedArticlesFeed?journalCode=nejm&amp;topArticlesType=recent">Most Cited: NEJM Most Cited Articles - Recent</source>
+      </item>
+      <item>
+         <title>First Case of 2019 Novel Coronavirus in the United States</title>
+         <link>https://www.nejm.org/doi/full/10.1056/NEJMoa2001191?rss=mostCited</link>
+         <guid isPermaLink="true">https://www.nejm.org/doi/full/10.1056/NEJMoa2001191?rss=mostCited</guid>
+         <dc:creator>By authorMichelle L. HolshueChas DeBoltScott LindquistKathy H. LofyJohn WiesmanHollianne BruceChristopher SpittersKeith EricsonSara WilkersonAhmet TuralGeorge DiazAmanda CohnLeAnne FoxAnita PatelSusan I. GerberLindsay KimSuxiang TongXiaoyan LuSteve LindstromMark A. PallanschWilliam C. WeldonHolly M. BiggsTimothy M. UyekiSatish K. Pillai</dc:creator>
+         <pubDate>2020-03-05T00:00:00</pubDate>
+         <source url="https://www.nejm.org/action/showMostCitedArticlesFeed?journalCode=nejm&amp;topArticlesType=recent">Most Cited: NEJM Most Cited Articles - Recent</source>
+      </item>
+      <item>
+         <title>A Trial of Lopinavir–Ritonavir in Adults Hospitalized with Severe Covid-19</title>
+         <link>https://www.nejm.org/doi/full/10.1056/NEJMoa2001282?rss=mostCited</link>
+         <guid isPermaLink="true">https://www.nejm.org/doi/full/10.1056/NEJMoa2001282?rss=mostCited</guid>
+         <dc:creator>By authorBin CaoYeming WangDanning WenWen LiuJingli WangGuohui FanLianguo RuanBin SongYanping CaiMing WeiXingwang LiJiaan XiaNanshan ChenJie XiangTing YuTao BaiXuelei XieLi ZhangCaihong LiYe YuanHua ChenHuadong LiHanping HuangShengjing TuFengyun GongYing LiuYuan WeiChongya DongFei ZhouXiaoying GuJiuyang XuZhibo LiuYi ZhangHui LiLianhan ShangKe WangKunxia LiXia ZhouXuan DongZhaohui QuSixia LuXujuan HuShunan RuanShanshan LuoJing WuLu PengFang ChengLihong PanJun ZouChunmin JiaJuan WangXia LiuShuzhen WangXudong WuQin GeJing HeHaiyan ZhanFang QiuLi GuoChaolin HuangThomas JakiFrederick G. HaydenPeter W. HorbyDingyu ZhangChen Wang</dc:creator>
+         <pubDate>2020-05-07T00:00:00</pubDate>
+         <source url="https://www.nejm.org/action/showMostCitedArticlesFeed?journalCode=nejm&amp;topArticlesType=recent">Most Cited: NEJM Most Cited Articles - Recent</source>
+      </item>
+      <item>
+         <title>SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients</title>
+         <link>https://www.nejm.org/doi/full/10.1056/NEJMc2001737?rss=mostCited</link>
+         <guid isPermaLink="true">https://www.nejm.org/doi/full/10.1056/NEJMc2001737?rss=mostCited</guid>
+         <dc:creator>By authorLirong ZouFeng RuanMingxing HuangLijun LiangHuitao HuangZhongsi HongJianxiang YuMin KangYingchao SongJinyu XiaQianfang GuoTie SongJianfeng HeHui-Ling YenMalik PeirisJie Wu</dc:creator>
+         <pubDate>2020-03-19T00:00:00</pubDate>
+         <source url="https://www.nejm.org/action/showMostCitedArticlesFeed?journalCode=nejm&amp;topArticlesType=recent">Most Cited: NEJM Most Cited Articles - Recent</source>
+      </item>
+      <item>
+         <title>Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany</title>
+         <link>https://www.nejm.org/doi/full/10.1056/NEJMc2001468?rss=mostCited</link>
+         <guid isPermaLink="true">https://www.nejm.org/doi/full/10.1056/NEJMc2001468?rss=mostCited</guid>
+         <dc:creator>By authorCamilla RotheMirjam SchunkPeter SothmannGisela BretzelGuenter FroeschlClaudia WallrauchThorbjörn ZimmerVerena ThielChristian JankeWolfgang GuggemosMichael SeilmaierChristian DrostenPatrick VollmarKatrin ZwirglmaierSabine ZangeRoman WölfelMichael Hoelscher</dc:creator>
+         <pubDate>2020-03-05T00:00:00</pubDate>
+         <source url="https://www.nejm.org/action/showMostCitedArticlesFeed?journalCode=nejm&amp;topArticlesType=recent">Most Cited: NEJM Most Cited Articles - Recent</source>
+      </item>
+      <item>
+         <title>Renin–Angiotensin–Aldosterone System Inhibitors in Patients with Covid-19</title>
+         <link>https://www.nejm.org/doi/full/10.1056/NEJMsr2005760?rss=mostCited</link>
+         <guid isPermaLink="true">https://www.nejm.org/doi/full/10.1056/NEJMsr2005760?rss=mostCited</guid>
+         <dc:creator>By authorMuthiah VaduganathanOrly VardenyThomas MichelJohn J.V. McMurrayMarc A. PfefferScott D. Solomon</dc:creator>
+         <pubDate>2020-04-23T00:00:00</pubDate>
+         <source url="https://www.nejm.org/action/showMostCitedArticlesFeed?journalCode=nejm&amp;topArticlesType=recent">Most Cited: NEJM Most Cited Articles - Recent</source>
+      </item>
+      <item>
+         <title>Covid-19 in Critically Ill Patients in the Seattle Region — Case Series</title>
+         <link>https://www.nejm.org/doi/full/10.1056/NEJMoa2004500?rss=mostCited</link>
+         <guid isPermaLink="true">https://www.nejm.org/doi/full/10.1056/NEJMoa2004500?rss=mostCited</guid>
+         <dc:creator>By authorPavan K. BhatrajuBijan J. GhassemiehMichelle NicholsRichard KimKeith R. JeromeArun K. NallaAlexander L. GreningerSudhakar PipavathMark M. WurfelLaura EvansPatricia A. KritekT. Eoin WestAndrew LuksAnthony GerbinoChris R. DaleJason D. GoldmanShane O’MahonyCarmen Mikacenic</dc:creator>
+         <pubDate>2020-05-21T00:00:00</pubDate>
+         <source url="https://www.nejm.org/action/showMostCitedArticlesFeed?journalCode=nejm&amp;topArticlesType=recent">Most Cited: NEJM Most Cited Articles - Recent</source>
+      </item>
+      <item>
+         <title>Compassionate Use of Remdesivir for Patients with Severe Covid-19</title>
+         <link>https://www.nejm.org/doi/full/10.1056/NEJMoa2007016?rss=mostCited</link>
+         <guid isPermaLink="true">https://www.nejm.org/doi/full/10.1056/NEJMoa2007016?rss=mostCited</guid>
+         <dc:creator>By authorJonathan GreinNorio OhmagariDaniel ShinGeorge DiazErika AspergesAntonella CastagnaTorsten FeldtGary GreenMargaret L. GreenFrançois-Xavier LescureEmanuele NicastriRentaro OdaKikuo YoEugenia Quiros-RoldanAlex StudemeisterJohn RedinskiSeema AhmedJorge BernettDaniel ChelliahDanny ChenShingo ChiharaStuart H. CohenJennifer CunninghamAntonella D’Arminio MonforteSaad IsmailHideaki KatoGiuseppe LapadulaErwan L’HerToshitaka MaenoSumit MajumderMarco MassariMarta Mora-RilloYoshikazu MutohDuc NguyenEwa VerweijAlexander ZoufalyAnu O. OsinusiAdam DeZureYang ZhaoLijie ZhongAnand ChokkalingamEmon ElboudwarejLaura TelepLeighann TimbsIlana HenneScott SellersHuyen CaoSusanna K. TanLucinda WinterbournePolly DesaiRobertino MeraAnuj GaggarRobert P. MyersDiana M. BrainardRichard ChildsTimothy Flanigan</dc:creator>
+         <pubDate>2020-06-11T00:00:00</pubDate>
+         <source url="https://www.nejm.org/action/showMostCitedArticlesFeed?journalCode=nejm&amp;topArticlesType=recent">Most Cited: NEJM Most Cited Articles - Recent</source>
+      </item>
+   </channel>
+</rss>
